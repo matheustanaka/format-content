@@ -4,7 +4,7 @@ main() {
 
 file=$1
 while read line; do
-  echo $line
+  eval $line
 
 done <example.txt
 
