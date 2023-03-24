@@ -1,0 +1,12 @@
+{
+  "properties": {},
+  "routing_key": "javainuse.queue",
+  "Content-type": "application/json;charset=UTF8",
+{
+  "payload": {},
+  "payload_encoding": "string",
+  "deliverymode": 2
+}
+},
+
+'{"properties":{},"routing_key":"javainuse.queue","Content-type":"application/json;charset=UTF8", "payload":"{\"msisdn\":\"11933300508\",\"operation_dt\":\"20230323005527\",\"activation_vl\":10,\"subsys\":\"APP\",\"tid\":\"CF39274B-1FB7-469F-8A91-EB47E0ABDD81\",\"tariff_id\":\"71096\",\"cbi\":\"77776\",\"cba\":\"77777\",\"technicalId\":\"72039\"}","payload_encoding":"string","deliverymode":2}'
